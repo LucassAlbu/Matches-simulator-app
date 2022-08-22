@@ -6,7 +6,7 @@ Esse repositório foi organizado em Branches q representam as implementações d
 
 1. Desenvolvimento Mobile Nativo Para Android
 
-   . [release/desenvolvimento-mobile-nativo-para-android](release/desenvolvimento-mobile-nativo-para-android)
+   . [release/desenvolvimento-mobile-nativo-para-android](https://github.com/LucassAlbu/Matches-simulator-app.git)
 
 
   
