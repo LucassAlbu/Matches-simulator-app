@@ -1,4 +1,4 @@
-package com.lucassalbu.simulator
+package com.lucassalbu.simulator.domain.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
