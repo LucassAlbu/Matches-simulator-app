@@ -27,6 +27,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void setupMatchesRefresh() {
         //TODO Atualizar as partidas na ação de swipe.
+
+        //teste
     }
 
     private void setupMatchesList() {
